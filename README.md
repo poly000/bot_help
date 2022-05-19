@@ -1,6 +1,6 @@
 # Bot Help
 
-1348292515 本bot的使用说明，另附[问与答](poly000/bot_help/wikis)
+1348292515 本bot的使用说明，另附[问与答](https://github.com/poly000/bot_help/wikis)
 
 ## [MiraiSong](https://github.com/khjxiaogu/MiraiSongPlugin) 点歌插件指令列表  
  
